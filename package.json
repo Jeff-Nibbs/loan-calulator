@@ -1,5 +1,6 @@
 {
   "name": "loan-calc",
+  "homepage": "https://jeff-nibbs.github.io/loan-calulator/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
